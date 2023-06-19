@@ -9,5 +9,11 @@ Current Ideas:
 
 -Connecting Smart Lights and Smart Speakers to sync music with the lights. (Need to flesh this idea out more to pursue it).
 
+Languages and Tools used:
+
+-Golang
+-Docker
+-C
+
 
 Deliverable is due August 7th!
