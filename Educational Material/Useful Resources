@@ -1,1 +1,15 @@
-Links to useful articles or videos to guide you
+Links to useful articles, websites, and videos to guide you:
+
+EdgeX github: https://github.com/edgexfoundry
+      -device SDK in Go: https://github.com/edgexfoundry/device-sdk-go/tree/main
+      -compose files to download and run EdgeX: https://github.com/edgexfoundry/edgex-compose
+      -UI implementation in Go: https://github.com/edgexfoundry/edgex-ui-go
+
+EdgeX tech talks on various topics: https://www.youtube.com/watch?v=loe0ZJVJGTg&list=PLih1NL_0jlJNyzs-y_kUuni4yr8J04Nnp
+
+List of current devices compatible with Matter: https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung
+                                                https://matter-smarthome.de/en/overview-products-compatible-with-matter/
+
+The Matter github: https://github.com/project-chip/connectedhomeip
+
+Matter documentation: https://project-chip.github.io/connectedhomeip-doc/index.html
