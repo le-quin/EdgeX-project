@@ -36,10 +36,8 @@ The Idea we had for our project
 Educational portion that exposes newcomers to the ideas and principles of EdgeX 
 
 ### Educational Material:
-summarize
+In the Educational Material folder, we include a document briefly explaining edge computing, Matter, and how EdgeX utilizes these concepts. There is also a document that includes links to articles, websites, and videos we found useful throughout the semester.
 
 ### User Interface:
-In the User Interface folder located in this repository we have included a video that demonstrates the idea behind our device service UI.
-Aslo included there are: an explanation of what our device service does and a guide behind the contents of the video. 
-
-
+In the User Interface folder located in this repository, we have included a video that demonstrates the idea behind our device service UI.
+Also included there are: an explanation of what our device service would do and a guide behind the contents of the video. 
