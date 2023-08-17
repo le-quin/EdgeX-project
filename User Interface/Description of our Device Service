@@ -1,3 +1,16 @@
+Overview of a device service controller:
+
+This device controller will communicate with the EdgeX REST Device Service.
+
+Command to control the Matter device will come in through REST.
+
+The REST device service will then send that command to the new .CPP EdgeX Matter Controller we created.
+
+That controller will communicate to the Matter Hub.
+
+
+Overview of our device sesrvice controller implementation:
+
 Our device service controller makes it simpler to take care of indoor plants.
 
 It utilizies matter compatible devices. 
