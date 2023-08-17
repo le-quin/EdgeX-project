@@ -1,7 +1,13 @@
 Edge Computing:
+  -is essentially the middleman between IOT devices and the cloud
+  -brings computation and data storage closer to the source of data, essentially completing these operations at the "edge"
+  -by bringing data closer to the source, it is a very effective emerging technology that improves speed and security
 
 The Matter Protocol Specification:
-
+  -is essentially a standardized language for Smart Home Devices
+  -using this specification, devices from any company can "talk" to each other
+  -promotes a much more integrated home that does not require only buying from one company
 
 How EdgeX utilizes these:
-
+  -creates services at the edge to connect IOT devices to their larger server
+  -uses Matter in its implementation
