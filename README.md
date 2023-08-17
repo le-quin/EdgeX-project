@@ -23,7 +23,17 @@ Connecting Smart Shades/Blinds, Smart Thermostat/Heating equipment, and Smart Wa
 -How things will work now, is that command to control the Matter device will come in through REST.  The REST device service will then send that command to the new .CPP EdgeX Matter Controller (THAT WE WILL CREATE).  That controller will communicate to the Matter Hub (i.e. Samsungs Smart Hub) to issue that command (.i.e. “Turn on light”).  Acknowledgments will then be sent back through the same path.
 
 ## Contents of This Repo
-summarize
+This repo contains:
+A summary of the EdgeX Foundry Coding Competition
+  - Tools used
+  - Explanation of Problem
+  - Challenge
+  - Goals
+The Idea we had for our project
+  - Demo video of UI
+  - Explanation of UI
+  - Explanation of our project
+Educational portion that exposes newcomers to the ideas and principles of EdgeX 
 
 ### Educational Material:
 summarize
