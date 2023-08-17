@@ -29,6 +29,7 @@ summarize
 summarize
 
 ### User Interface:
-summarize
+In the User Interface folder located in this repository we have included a video that demonstrates the idea behind our device service UI.
+Aslo included there are: an explanation of what our device service does and a guide behind the contents of the video. 
 
 
