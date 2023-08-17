@@ -1,0 +1,11 @@
+Our device service controller makes it simpler to take care of indoor plants.
+
+It utilizies matter compatible devices. 
+
+Once you connect these matter compatible devices, you can control the humidity in certain rooms,
+control the temperature, and control the amount of light the plants receive.
+
+The user can control all these settings on their phone via the device service controller.
+
+The matter compatible devices specific to this device service controller we implemented are: 
+Smart Shades/Blinds and Smart Thermostat/Heating equipment
